@@ -1,0 +1,285 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "belle hollander",
+      "email": "bhollander@reactsucks.com",
+      "isEmployee": "true"
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "isEmployee": "true"
+    },
+    {
+      "id": "3",
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "isEmployee": "false"
+    },
+    {
+      "id": "4",
+      "name": "Alex Johnson",
+      "email": "alexjohnson@example.com",
+      "isEmployee": "true"
+    },
+    {
+      "id": "5",
+      "name": "Sarah Davis",
+      "email": "sarahdavis@example.com",
+      "isEmployee": "false"
+    },
+    {
+      "id": "6",
+      "name": "Michael Brown",
+      "email": "michaelbrown@example.com",
+      "isEmployee": "true"
+    },
+    {
+      "id": "7",
+      "name": "Emily Wilson",
+      "email": "emilywilson@example.com",
+      "isEmployee": "false"
+    },
+    {
+      "id": "8",
+      "name": "Daniel Lee",
+      "email": "daniellee@example.com",
+      "isEmployee": "true"
+    },
+    {
+      "id": "9",
+      "name": "Olivia Taylor",
+      "email": "oliviataylor@example.com",
+      "isEmployee": "false"
+    },
+    {
+      "id": "10",
+      "name": "William Anderson",
+      "email": "williamanderson@example.com",
+      "isEmployee": "true"
+    }
+  ],
+  "employess": [
+    {
+      "id": "1",
+      "startDate": "10/20/2020",
+      "payRate": "$100",
+      "locationId": "2",
+      "userId": "1"
+    },
+    {
+      "id": "2",
+      "startDate": "12/01/2022",
+      "payRate": "$150",
+      "locationId": "1",
+      "userId": "4"
+    },
+    {
+      "id": "3",
+      "startDate": "06/15/2022",
+      "payRate": "$120",
+      "locationId": "2",
+      "userId": "2"
+    },
+    {
+      "id": "4",
+      "startDate": "09/03/2022",
+      "payRate": "$130",
+      "locationId": "3",
+      "userId": "6"
+    },
+    {
+      "id": "5",
+      "startDate": "02/22/2023",
+      "payRate": "$140",
+      "locationId": "4",
+      "userId": "8"
+    },
+    {
+      "id": "6",
+      "startDate": "08/10/2023",
+      "payRate": "$160",
+      "locationId": "5",
+      "userId": "10"
+    }
+  ],
+  "customers": [
+    { "id": "1", "loyaltyId": "12345", "userId": "3" },
+    {
+      "id": "2",
+      "loyaltyId": "54321",
+      "userId": "5"
+    },
+    {
+      "id": "3",
+      "loyaltyId": "98765",
+      "userId": "7"
+    },
+    {
+      "id": "4",
+      "loyaltyId": "24680",
+      "userId": "9"
+    }
+  ],
+  "locations": [
+    {
+      "id": "1",
+      "address": "101 street lane",
+      "sqFt": "10000"
+    },
+    {
+      "id": "2",
+      "address": "202 avenue road",
+      "sqFt": "8000"
+    },
+    {
+      "id": "3",
+      "address": "303 boulevard avenue",
+      "sqFt": "12000"
+    },
+    {
+      "id": "4",
+      "address": "404 lane street",
+      "sqFt": "6000"
+    },
+    {
+      "id": "5",
+      "address": "505 court avenue",
+      "sqFt": "15000"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "kit-kat",
+      "price": "2",
+      "productTypeId": "1"
+    },
+    {
+      "id": "2",
+      "name": "blow-pop",
+      "price": "3",
+      "productTypeId": "2"
+    },
+    {
+      "id": "3",
+      "name": "jaw-breaker",
+      "price": "9",
+      "productTypeId": "3"
+    },
+    {
+      "id": "4",
+      "name": "herseys",
+      "price": "2",
+      "productTypeId": "1"
+    },
+    {
+      "id": "5",
+      "name": "almond joy",
+      "price": "4",
+      "productTypeId": "1"
+    },
+    {
+      "id": "6",
+      "name": "gummy worms",
+      "price": "6",
+      "productTypeId": "4"
+    },
+    {
+      "id": "7",
+      "name": "sour patch kids",
+      "price": "6",
+      "productTypeId": "4"
+    },
+    {
+      "id": "8",
+      "name": "twix",
+      "price": "3",
+      "productTypeId": "1"
+    }
+  ],
+  "purchases": [
+    {
+      "id": "1",
+      "customerId": "2",
+      "loactionInventoryId": "1",
+      "amount": "1"
+    },
+    {
+      "id": "2",
+      "customerId": "1",
+      "loactionInventoryId": "2",
+      "amount": "1"
+    },
+    {
+      "id": "3",
+      "customerId": "3",
+      "loactionInventoryId": "3",
+      "amount": "1"
+    },
+    {
+      "id": "4",
+      "customerId": "3",
+      "loactionInventoryId": "4",
+      "amount": "4"
+    },
+    {
+      "id": "5",
+      "customerId": "2",
+      "loactionInventoryId": "2",
+      "amount": "1"
+    }
+  ],
+  "loactionInventorys": [
+    {
+      "id": "1",
+      "locationId": "1",
+      "productId": "1"
+    },
+    {
+      "id": "2",
+      "locationId": "3",
+      "productId": "4"
+    },
+    {
+      "id": "3",
+      "locationId": "2",
+      "productId": "6"
+    },
+    {
+      "id": "4",
+      "locationId": "4",
+      "productId": "7"
+    },
+    {
+      "id": "5",
+      "locationId": "4",
+      "productId": "3"
+    },
+    {
+      "id": "6",
+      "locationId": "1",
+      "productId": "5"
+    }
+  ],
+  "productTypes": [
+    {
+      "id": "1",
+      "type": "chocolate"
+    },
+    {
+      "id": "2",
+      "type": "loli-pop"
+    },
+    {
+      "id": "3",
+      "type": "hard-candy"
+    },
+    {
+      "id": "4",
+      "type": "gummy"
+    }
+  ]
+}
