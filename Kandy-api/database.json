@@ -106,7 +106,11 @@
     }
   ],
   "customers": [
-    { "id": "1", "loyaltyId": "12345", "userId": "3" },
+    {
+      "id": "1",
+      "loyaltyId": "12345",
+      "userId": "3"
+    },
     {
       "id": "2",
       "loyaltyId": "54321",
@@ -198,6 +202,24 @@
       "name": "twix",
       "price": "3",
       "productTypeId": "1"
+    },
+    {
+      "name": "air head",
+      "price": "4",
+      "productTypeId": "4",
+      "id": "jhOt-fL"
+    },
+    {
+      "name": "Dum-Dum",
+      "price": "2",
+      "productTypeId": "2",
+      "id": "l_fR1Gv"
+    },
+    {
+      "name": "Gum",
+      "price": "2",
+      "productTypeId": "4",
+      "id": "Yw4GNzs"
     }
   ],
   "purchases": [
