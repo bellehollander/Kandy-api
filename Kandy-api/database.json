@@ -59,50 +59,63 @@
       "name": "William Anderson",
       "email": "williamanderson@example.com",
       "isEmployee": "true"
+    },
+    {
+      "name": "stevie",
+      "isEmployee": true,
+      "id": 11
     }
   ],
   "employess": [
     {
       "id": 1,
       "startDate": "10/20/2020",
-      "payRate": "$100",
+      "payRate": "100",
       "locationId": "2",
       "userId": 1
     },
     {
       "id": 2,
       "startDate": "12/01/2022",
-      "payRate": "$150",
+      "payRate": "150",
       "locationId": "1",
       "userId": 4
     },
     {
       "id": 3,
       "startDate": "06/15/2022",
-      "payRate": "$120",
+      "payRate": "120",
       "locationId": "2",
       "userId": 2
     },
     {
       "id": 4,
       "startDate": "09/03/2022",
-      "payRate": "$130",
+      "payRate": "130",
       "locationId": "3",
       "userId": 6
     },
     {
       "id": 5,
       "startDate": "02/22/2023",
-      "payRate": "$140",
+      "payRate": "140",
       "locationId": "4",
       "userId": 8
     },
     {
       "id": 6,
       "startDate": "08/10/2023",
-      "payRate": "$160",
+      "payRate": "160",
       "locationId": "5",
       "userId": 10
+    },
+
+    {
+      "startDate": "01/29/2021",
+      "payRate": "22",
+      "locationId": "1",
+      "userId": 11,
+      "id": 8
     }
   ],
   "customers": [
