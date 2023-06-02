@@ -226,35 +226,35 @@
     {
       "id": 1,
       "customerId": 2,
-      "loactionInventoryId": 1,
+      "locationInventorysId": 1,
       "amount": 1
     },
     {
       "id": 2,
       "customerId": 1,
-      "loactionInventoryId": 2,
+      "locationInventorysId": 2,
       "amount": 1
     },
     {
       "id": 3,
       "customerId": 3,
-      "loactionInventoryId": 3,
+      "locationInventorysId": 3,
       "amount": 1
     },
     {
       "id": 4,
       "customerId": 3,
-      "loactionInventoryId": 4,
+      "locationInventorysId": 4,
       "amount": 4
     },
     {
       "id": 5,
       "customerId": 2,
-      "loactionInventoryId": 2,
+      "locationInventorysId": 2,
       "amount": 1
     }
   ],
-  "loactionInventorys": [
+  "locationInventories": [
     {
       "id": 1,
       "locationId": 1,
