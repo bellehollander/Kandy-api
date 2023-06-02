@@ -226,31 +226,31 @@
     {
       "id": 1,
       "customerId": 2,
-      "locationInventorysId": 1,
+      "locationInventoryId": 1,
       "amount": 1
     },
     {
       "id": 2,
       "customerId": 1,
-      "locationInventorysId": 2,
+      "locationInventoryId": 2,
       "amount": 1
     },
     {
       "id": 3,
       "customerId": 3,
-      "locationInventorysId": 3,
+      "locationInventoryId": 3,
       "amount": 1
     },
     {
       "id": 4,
       "customerId": 3,
-      "locationInventorysId": 4,
+      "locationInventoryId": 4,
       "amount": 4
     },
     {
       "id": 5,
       "customerId": 2,
-      "locationInventorysId": 2,
+      "locationInventoryId": 2,
       "amount": 1
     }
   ],
