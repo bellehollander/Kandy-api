@@ -121,22 +121,22 @@
     {
       "id": 1,
       "loyaltyId": "787878",
-      "userId": "3"
+      "userId": 3
     },
     {
       "id": 2,
       "loyaltyId": "54321",
-      "userId": "5"
+      "userId": 5
     },
     {
       "id": 3,
       "loyaltyId": "89898",
-      "userId": "7"
+      "userId": 7
     },
     {
       "id": 4,
       "loyaltyId": "24680",
-      "userId": "9"
+      "userId": 9
     }
   ],
   "locations": [
@@ -252,6 +252,109 @@
       "customerId": 2,
       "locationInventoryId": 2,
       "amount": 1
+    },
+    {
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 6
+    },
+    {
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 7
+    },
+    {
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 8
+    },
+    {
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 9
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 10
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 11
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 12
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 13
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 14
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 15
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 16
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 17
+    },
+    {
+      "amount": 1,
+      "locationInventoryId": {
+        "id": 1,
+        "locationId": 1,
+        "productId": 1
+      },
+      "id": 18
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 19
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 20
+    },
+    {
+      "amount": 1,
+      "id": 21
+    },
+    {
+      "amount": 1,
+      "id": 22
+    },
+    {
+      "customerId": "",
+      "amount": 1,
+      "locationInventoryId": "",
+      "id": 23
     }
   ],
   "locationInventories": [
