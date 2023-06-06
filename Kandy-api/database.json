@@ -170,56 +170,50 @@
     {
       "id": 1,
       "name": "kit-kat",
-      "price": "2",
-      "productTypeId": "1"
+      "price": 2,
+      "productTypeId": 1
     },
     {
       "id": 2,
       "name": "blow-pop",
-      "price": "3",
-      "productTypeId": "2"
+      "price": 3,
+      "productTypeId": 2
     },
     {
       "id": 3,
       "name": "jaw-breaker",
-      "price": "9",
-      "productTypeId": "3"
+      "price": 9,
+      "productTypeId": 3
     },
     {
       "id": 4,
       "name": "herseys",
-      "price": "2",
-      "productTypeId": "1"
+      "price": 2,
+      "productTypeId": 1
     },
     {
       "id": 5,
       "name": "almond joy",
-      "price": "4",
-      "productTypeId": "1"
+      "price": 4,
+      "productTypeId": 1
     },
     {
       "id": 6,
       "name": "gummy worms",
-      "price": "6",
-      "productTypeId": "4"
+      "price": 6,
+      "productTypeId": 4
     },
     {
       "id": 7,
       "name": "sour patch kids",
-      "price": "6",
-      "productTypeId": "4"
+      "price": 6,
+      "productTypeId": 4
     },
     {
       "id": 8,
       "name": "twix",
-      "price": "3",
-      "productTypeId": "1"
-    },
-    {
-      "name": "air head",
-      "price": "4",
-      "productTypeId": "4",
-      "id": "jhOt-fL"
+      "price": 3,
+      "productTypeId": 1
     }
   ],
   "purchases": [
@@ -252,6 +246,20 @@
       "customerId": 2,
       "locationInventoryId": 2,
       "amount": 1
+    },
+    {
+      "customerId": 1,
+      "amount": 1,
+      "locationId": 1,
+      "productId": 1,
+      "id": 6
+    },
+    {
+      "customerId": 1,
+      "amount": 1,
+      "locationId": 1,
+      "productId": 1,
+      "id": 7
     }
   ],
   "locationInventories": [
@@ -284,6 +292,21 @@
       "id": 6,
       "locationId": 1,
       "productId": 5
+    },
+    {
+      "id": 7,
+      "locationId": 5,
+      "productId": 4
+    },
+    {
+      "id": 8,
+      "locationId": 3,
+      "productId": 8
+    },
+    {
+      "id": 9,
+      "locationId": 2,
+      "productId": 2
     }
   ],
   "productTypes": [
