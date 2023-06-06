@@ -257,9 +257,23 @@
     {
       "customerId": 1,
       "amount": 1,
+      "locationId": 2,
+      "productId": 2,
+      "id": 8
+    },
+    {
+      "customerId": 1,
+      "amount": 1,
       "locationId": 1,
       "productId": 1,
-      "id": 7
+      "id": 9
+    },
+    {
+      "customerId": 2,
+      "amount": 1,
+      "locationId": 2,
+      "productId": 2,
+      "id": 10
     }
   ],
   "locationInventories": [
